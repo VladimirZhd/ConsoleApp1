@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            var name = "Vova Zhdanov";
+            var name = "Vova";
             string location = "Rexburg, ID";
 
             Console.WriteLine($"My name is: {name}");
