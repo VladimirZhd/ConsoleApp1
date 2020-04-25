@@ -18,7 +18,7 @@ namespace ConsoleApp1
 
             /* Christmas */
             var christmasDay = new DateTime(currentDate.Year, 12, 25);
-            if (currentDate.Month == 12 & currentDate.Day >= 25)
+            if (currentDate.Month == 12 && currentDate.Day >= 25)
             {
                 christmasDay.AddYears(1);
             }
